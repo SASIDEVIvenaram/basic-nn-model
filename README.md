@@ -72,23 +72,19 @@ model.predict(n)
 ### Dataset Information
 
 #### DATASET.HEAD():
-![image](https://github.com/user-attachments/assets/ec7b839f-d7e4-4216-a11b-11588541a75e)
+![image](https://github.com/user-attachments/assets/a7d1d93c-943c-434d-ab0f-12ab5ff50f28)
 #### DATASET.INFO()
-![image](https://github.com/user-attachments/assets/6eb9e699-e5e6-4f83-8f59-e387eb2b6737)
+![image](https://github.com/user-attachments/assets/9a11303d-19df-47d9-9ebc-4eb59b14ea47)
 #### DATASET.DESCRIBE()
-![image](https://github.com/user-attachments/assets/38303258-78bc-49e5-b083-e7d70f8c85ce)
+![image](https://github.com/user-attachments/assets/38f7852f-bbc7-4ebd-b1a9-d398f7eb7f39)
 
 ### OUTPUT
 
 #### Training Loss Vs Iteration Plot
-![image](https://github.com/user-attachments/assets/6a6f3843-d470-475c-9530-c6e0de294a23)
+![image](https://github.com/user-attachments/assets/eaa64275-cfdc-4a30-9ee6-54029d5903a2)
 
-#### Test Data Root Mean Squared Error
-![image](https://github.com/user-attachments/assets/89054004-5ebc-46ab-9f6d-15cdaaa76869)
-
-#### New Sample Data Prediction
-
-![image](https://github.com/user-attachments/assets/925d3dea-d77d-463c-84ad-04a0f0782e66)
+#### Test Data Root Mean Squared Error 
+![image](https://github.com/user-attachments/assets/c790197f-77f1-44c9-a60a-b1435f961e6f)
 
 ### RESULT
 Thus a neural network regression model for the given dataset is developed and the prediction for the given input is obtained accurately.
