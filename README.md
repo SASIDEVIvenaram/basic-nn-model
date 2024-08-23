@@ -33,7 +33,7 @@ Include the neural network model diagram.
 #### Name: SASIDEVI V
 #### Register Number: 212222230136
 
-python
+```
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
@@ -68,7 +68,7 @@ model.evaluate(xtrain,y_test)
 n=[[17]]
 n=scaler.transform(n)
 model.predict(n)
-
+```
 ### Dataset Information
 
 #### DATASET.HEAD():
