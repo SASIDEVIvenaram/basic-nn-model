@@ -6,11 +6,12 @@ To develop a neural network regression model for the given dataset.
 
 ### THEORY
 
-Explain the problem statement
+Design and implement a neural network regression model to accurately predict a continuous target variable based on a set of input features within the provided dataset. The objective is to develop a robust and reliable predictive model that can capture complex relationships in the data, ultimately yielding accurate and precise predictions of the target variable. The model should be trained, validated, and tested to ensure its generalization capabilities on unseen data, with an emphasis on optimizing performance metrics such as mean squared error or mean absolute error.
 
 ### Neural Network Model
 
-Include the neural network model diagram.
+![WhatsApp Image 2024-08-24 at 15 25 44_855f4908](https://github.com/user-attachments/assets/f608dfb6-59c2-4278-8e09-7281027e2939)
+
 
 ### DESIGN STEPS
 
